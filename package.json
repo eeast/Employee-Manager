@@ -1,0 +1,17 @@
+{
+  "name": "ch12-employeetracker",
+  "version": "1.0.0",
+  "description": "MySQL, Express, and Node driven web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.3"
+  }
+}
