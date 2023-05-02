@@ -12,7 +12,7 @@
 
 ## Description
 
-MySQL, Node, Inquirer application demonstrating a simples database for employee tracking.
+MySQL, Node, Inquirer application demonstrating a simple database for employee tracking.
 
 ## Features
 
